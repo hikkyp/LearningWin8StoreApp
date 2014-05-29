@@ -13,6 +13,20 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_FileAccessAndPickers", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_CreateABlogReader", "05_CreateABlogReader\05_CreateABlogReader.csproj", "{4B971B14-73E9-436E-A633-4D0853AFD611}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Content", "Content", "{1BD36E55-AF04-4701-ADAE-5745BDD69A4F}"
+	ProjectSection(SolutionItems) = preProject
+		Content\01.jpg = Content\01.jpg
+		Content\02.jpg = Content\02.jpg
+		Content\03.jpg = Content\03.jpg
+		Content\04.jpg = Content\04.jpg
+		Content\05.jpg = Content\05.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{BCB1F4E4-AF99-4445-AAF3-3CF95FE3ACEB}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
